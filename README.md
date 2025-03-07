@@ -84,6 +84,3 @@ _Add screenshots or gameplay clips here when available._
 - **Yul Castro** – Main Organizer
 
 ---
-
-## 📜 License
-_(Specify your license here if applicable, like MIT, GPL, etc.)_
